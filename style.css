@@ -1,1 +1,42 @@
-/* Your Code Goes Here */
+* {
+    font-family: sans-serif;
+    background-color: #FCDDBC;
+    color: #292929;
+}
+
+h1 {
+    font-variant: small-caps;
+    background-color: #69585F;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-variant: small-caps;
+}
+
+strong {
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    float: left;
+    border: 3px solid gray;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+footer {
+    border-top: black 1px solid;
+    padding-top: 10px;
+    padding-left: 15px;
+}
