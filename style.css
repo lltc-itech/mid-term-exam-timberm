@@ -8,7 +8,7 @@ h1 {
     font-variant: small-caps;
     background-color: #69585F;
     color: white;
-    padding: 15px;
+    padding: 20px;
     border-radius: 20px;
     text-align: center;
 }
@@ -23,6 +23,7 @@ strong {
 
 a {
     text-decoration: none;
+    color: #69585F;
 }
 
 img {
